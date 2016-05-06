@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'stephenwilley:polymer-iron-elements',
+  name: 'stephenwilley:polymer-paper-elements',
   version: '0.1.0',
-  summary: 'Polymer iron elements',
-  git: 'https://github.com/stephenwilley/polymer-iron-elements',
+  summary: 'Polymer paper elements',
+  git: 'https://github.com/stephenwilley/polymer-paper-elements',
   documentation: 'README.md'
 });
 

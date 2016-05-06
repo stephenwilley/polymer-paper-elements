@@ -1,7 +1,7 @@
 ### Meteor package to install Polymer elements
 
 ```
-meteor add pixto:polymer-iron-elements
+meteor add stephenwilley:polymer-paper-elements
 ```
 
 default install directory is /public/bower_components
